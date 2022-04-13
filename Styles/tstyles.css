@@ -1,0 +1,26 @@
+.textcenter
+{
+    text-align: center;
+  }
+
+.middle
+ {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.blue 
+{
+    color: rgb(41, 109, 236);
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+.black
+{
+  color: rgb(0, 2, 5);
+  text-align: center;
+  font-family: "Courier New", "Courier New", monospace;
+}

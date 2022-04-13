@@ -1,0 +1,58 @@
+
+body {
+    background-image: url("../images/water.jpg");
+  }
+
+.bokbok
+{
+    text-align: center;
+}
+
+.center
+ {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.middle
+  {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+   } 
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: rgb(143, 74, 74);
+    text-align: center;
+  }
+
+ 
+.thicker {
+    font-weight: 900;
+    color: white;
+  }
+
+.white {
+    color: white;
+    text-align: center;
+  }
+
+.black {
+    color: rgb(2, 2, 2);
+    text-align: center;
+  }
+
+.text
+{
+  color: whitesmoke;
+  font-weight: 900;
+  text-align: center;
+  font-family: "Courier New", "Courier New", monospace;
+}
